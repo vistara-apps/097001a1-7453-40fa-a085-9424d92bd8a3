@@ -8,11 +8,11 @@
     "version": "1",
     "name": "402CAT Base Mint",
     "iconUrl": "https://0co.to/images/zara-2.png",
-    "homeUrl": "https://app-d92bd8a3-mxym.vercel.app",
+    "homeUrl": "https://app-d92bd8a3-o57n.vercel.app",
     "imageUrl": "https://097001a1-7453-40fa-a085-9424d92bd8a3.vercel.app/image.png",
     "splashImageUrl": "https://097001a1-7453-40fa-a085-9424d92bd8a3.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
-    "webhookUrl": "https://app-d92bd8a3-mxym.vercel.app/api/webhook",
+    "webhookUrl": "https://app-d92bd8a3-o57n.vercel.app/api/webhook",
     "subtitle": "Built with Zara",
     "description": "402CAT Base Mint is a Base Mini App built with Zara.",
     "screenshotUrls": [
